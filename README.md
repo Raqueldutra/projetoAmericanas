@@ -1,6 +1,6 @@
-# Projeto PROJETOECOMMERCE
+# Projeto Americanas
 
-Aplica teste funcional no site  http://automationpractice.com/, utilizando as ferramentas: selenium Web Drive e Robot Framework.
+Aplica teste funcional no site  https://www.americanas.com.br/, utilizando as ferramentas: selenium Web Drive e Robot Framework.
 
 # Funcionalidades testadas
 * Usuário ja cadastrado
