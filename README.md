@@ -10,16 +10,13 @@ Aplica teste UI no site  https://www.americanas.com.br/, utilizando as ferrament
 * Realizar login
 * Adicionar produto
 
-# Requisitos de projeto
-* [Phyton 3.8+](https://www.python.org/downloads/)
-* Robot Framework: pip install robotframework
-
-# Requisitos de sistema
+### Requisitos de sistema
+* [Phyton 3.7+](https://www.python.org/downloads/)
 * Chrome 83+
 * [Chromedriver 85+](https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver)
 
-# Instalando dependências
-* pip install --no-cache-dir -r requirements.txt
+### Instalando dependências
+`pip install --no-cache-dir -r requirements.txt`
 
 # Executando o projeto
 robot -d ./report Tests\
