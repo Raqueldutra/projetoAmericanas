@@ -2,12 +2,10 @@
 
 Library             SeleniumLibrary
 
-*** Variables ***
-
 ***Keywords***
 
 Nova sessão
-    Open Browser      about:blank        Chrome
+    Open Browser      about:blank       Chrome
 
 
 Encerra sessão
