@@ -8,7 +8,6 @@ Aplica teste UI no site  https://www.americanas.com.br/, utilizando as ferrament
 * CPF inválido
 * Cadastro com sucesso
 * Realizar login
-* Adicionar produto
 
 ### Requisitos de sistema
 * [Phyton 3.7+](https://www.python.org/downloads/)
