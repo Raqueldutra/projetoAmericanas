@@ -22,4 +22,3 @@ Aplica teste UI no site  https://www.americanas.com.br/, utilizando as ferrament
 robot -d ./report Tests\
 
 Serão executados todos os casos de testes e os detalhes com os prints do resultado de cada caso de teste estarão disponíveis em relatório HTML no diretório /report.
-clear
